@@ -1,7 +1,7 @@
 import requests
 from send_email import send_email
 
-topic = "tesla"
+topic = "thalapathy"
 
 api_key = "b5a7660624324cf4a08a09f097a11d2e"
 url = "https://newsapi.org/v2/everything?" \
